@@ -14,7 +14,6 @@ void Average_Of_Sum();
 
 int main()
 {
-    // Creating menu driven Do While loop
 	char selection = ' ';
 
 	// Do-while loop in order to drive a menu based program.
